@@ -1,2 +1,1 @@
-# rentals
 # rental
